@@ -5,22 +5,22 @@ defaultContentLanguage = "zh"
 defaultContentLanguageInSubdir = true
 
 
-title = "scattered-leaves"
+title = "cewno"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [author]
-name = "scattered-leaves"
+name = "cewno"
   # headline = "An awesome person"
   # image = "img/author.jpg"  # path relative to static directory
 
   links = [
     { bilibili = "https://space.bilibili.com/687292913" },
-    { github = "https://github.com/scattered-leaves" },
-    { discord = "https://discord.com/users/scattered_leaves" },
-    { dev = "https://dev.to/scattered-leaves" },
+    { github = "https://github.com/cewno" },
+    { discord = "https://discord.com/users/cewno" },
+    { dev = "https://dev.to/cewno" },
     { email = "mailto:xiaomoshuiya@qq.com" },
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
